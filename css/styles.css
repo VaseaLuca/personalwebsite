@@ -106,9 +106,9 @@ hr {
 }
 
 .study-row {
-  margin: 100px auto 150px auto;
+  margin: 100px 300px 150px auto;
   text-align: right;
-  width: 50%;
+  width: auto;
 }
 
 .js-gif {
