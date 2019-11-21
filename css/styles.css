@@ -54,18 +54,22 @@ margin: 100px auto 100px auto
   padding-top: 150px;
 }
 
+
 .top-cloud {
   position: absolute;
-  left: 1500px;
-  top: 95px;
+margin-left: 250px;
+
 }
 
 .second-cloud {
   position: absolute;
-  left: 900px;
-  bottom: 300px;
+
 }
 
+.responsive-clouds {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
 
 
 .skill-row {
